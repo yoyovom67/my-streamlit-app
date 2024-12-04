@@ -1,0 +1,3 @@
+# Ignorer les dossiers générés par PyInstaller ou d'autres outils de compilation
+dist/
+build/
