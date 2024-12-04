@@ -2,7 +2,8 @@
 import streamlit as st
 import numpy as np
 from numpy.linalg import eig
-import plotly.graph_objects as go
+from plotly import graph_objs as go
+
 
 theta_deg = 0
 
